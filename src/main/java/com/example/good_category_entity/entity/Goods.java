@@ -21,6 +21,10 @@ public class Goods {
     @JoinColumn(name = "categories" , referencedColumnName = "id")
     private Category category;
 
+
+
+
+
     public Goods() {
     }
 

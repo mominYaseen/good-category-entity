@@ -1,4 +1,4 @@
-package com.example.good_category_entity.entity;
+package com.example.good_category_entity.dto;
 
 
 public class GoodsRequest {
